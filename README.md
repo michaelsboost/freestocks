@@ -1,25 +1,26 @@
 # 📈 Free Stock Referral Hub
 
-This is a fork of my Quick Links project, customized as a central place for **free stock offers** and **cash bonus deals** from major brokerages like Robinhood, Webull, and Moomoo.
+This is a fork of my Quick Links project, customized as a central hub for **free stock offers** and **cash bonus deals** from major brokerages like Robinhood, Webull, and Moomoo.
 
-## 🔗 Live Site
+## 🔗 Live Site  
 👉 [michaelsboost.com/freestocks](https://michaelsboost.com/freestocks)
 
 ## ✨ What You’ll Find
 
-- 🚀 Verified links to get free stocks or deposit bonuses
-- 🏦 Offers from Robinhood, Webull, Moomoo, SoFi, Public, and more
-- 📲 Easy to navigate and mobile-optimized
+- 🚀 Verified links to free stocks and deposit bonuses  
+- 🏦 Deals from Robinhood, Webull, Moomoo, SoFi, Public, and more  
+- 📲 Mobile-optimized and easy to navigate  
 
 ## 👨‍💻 Tech Stack
 
-- HTML + Tailwind CSS
-- GitHub Pages hosted
-- No JS dependencies
+- HTML  
+- Tailwind CSS + PicoCSS  
+- Alpine.js (for lightweight interactivity)  
+- Hosted on GitHub Pages  
 
 ## 📬 Got a referral or suggestion?
 
-Open an issue or DM me on Twitter [@michaelsboost](https://twitter.com/michaelsboost)
+Open an issue or DM me on Twitter: [@michaelsboost](https://twitter.com/michaelsboost)
 
 ---
 
